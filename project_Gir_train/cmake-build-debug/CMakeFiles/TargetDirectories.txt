@@ -1,0 +1,3 @@
+C:/Users/annas/CLionProjects/project_Gir_train/cmake-build-debug/CMakeFiles/project_Gir_train.dir
+C:/Users/annas/CLionProjects/project_Gir_train/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/annas/CLionProjects/project_Gir_train/cmake-build-debug/CMakeFiles/rebuild_cache.dir
